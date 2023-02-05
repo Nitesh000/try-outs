@@ -4,7 +4,7 @@ const { createClient } = supabase;
 
 const supaUrl = "https://upeuulofwrjwncnwslzn.supabase.co";
 const supaAnonKey =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVwZXV1bG9md3Jqd25jbndzbHpuIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzU0MzQxMzAsImV4cCI6MTk5MTAxMDEzMH0.SOXAqijBYhwHdOEYco4FqC-7abswNrsIGPsRMdmuAfM";
+"";
 
 const supaClient = createClient(supaUrl, supaAnonKey);
 
